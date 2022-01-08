@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/google/triggerator,13,9
+/google/triggerator/tree/main/frontend/src,4,2
+/google/triggerator/tree/main/frontend/src/app,3,2
+/google/triggerator/tree/main/backend/src,3,1
+/google/triggerator/tree/main/frontend,2,2
+/google/triggerator/tree/main/scripts,2,2
+/google/triggerator/tree/main/backend,2,1
+/google/triggerator/blob/5c88f8a640ce3291f2303f899c3f1e6b439b8068/backend/package.json,1,1
+/google/triggerator/blob/5c88f8a640ce3291f2303f899c3f1e6b439b8068/frontend/package.json,1,1
+/google/triggerator/blob/5c88f8a640ce3291f2303f899c3f1e6b439b8068/frontend/src/app/app-editor.component.html,1,1

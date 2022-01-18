@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/google/triggerator,20,16
+/google/triggerator/tree/main/backend,8,2
+/google/triggerator/tree/main/backend/src,8,2
+/google/triggerator/blob/main/scripts/create-spreadsheet.py,4,2
+/google/triggerator/tree/main/backend/src/app,3,2
+/google/triggerator/tree/main/scripts,3,2
+/google/triggerator/blob/main/backend/src/env.ts,2,1
+/google/triggerator/search,2,1
+/google/triggerator/blob/716449db1762a94223f640befac188f407d740b7/backend/src/app/google-drive-facade.ts,1,1
+/google/triggerator/blob/ec2dba184941518844199ef3d3697a09f5cbc54d/backend/src/test/config-service.tests.ts,1,1

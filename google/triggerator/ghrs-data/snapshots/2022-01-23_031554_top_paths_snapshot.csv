@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/google/triggerator,30,22
+/google/triggerator/tree/main/backend,11,3
+/google/triggerator/tree/main/backend/src,10,3
+/google/triggerator/tree/main/backend/src/app,5,3
+/google/triggerator/blob/main/scripts/create-spreadsheet.py,4,2
+/google/triggerator/tree/main/scripts,3,2
+/google/triggerator/blob/main/backend/src/api.ts,2,2
+/google/triggerator/blob/main/backend/src/app/auth.ts,2,2
+/google/triggerator/blob/main/backend/src/app/utils.ts,2,2
+/google/triggerator/blob/main/backend/nodemon.json,2,1

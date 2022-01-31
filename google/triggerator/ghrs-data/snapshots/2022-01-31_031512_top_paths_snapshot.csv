@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/google/triggerator,23,18
+/google/triggerator/tree/main/backend,3,1
+/google/triggerator/blob/main/backend/nodemon.json,2,1
+/google/triggerator/blob/main/backend/src/app/config-service.ts,2,1
+/google/triggerator/tree/main/backend/src,2,1
+/google/triggerator/tree/main/backend/src/app,2,1
+/google/triggerator/blob/69b27d9137bcce22b65f1caf9bbd6ff355ac9dd4/backend/package-lock.json,1,1
+/google/triggerator/blob/main/backend/.nycrc,1,1
+/google/triggerator/blob/main/backend/package.json,1,1
+/google/triggerator/blob/main/backend/src/api.ts,1,1

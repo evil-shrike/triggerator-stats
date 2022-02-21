@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/google/triggerator,51,31
+/google/triggerator/blob/c03b4241b6c64d368054813ee084481bf819c235/scripts/setup.sh,8,1
+/google/triggerator/search,6,2
+/google/triggerator/commits,4,2
+/google/triggerator/pulse,4,2
+/google/triggerator/actions,4,1
+/google/triggerator/tree/main/scripts,3,3
+/google/triggerator/blob/c03b4241b6c64d368054813ee084481bf819c235/backend/src/test/config-service.tests.ts,3,1
+/google/triggerator/issues,3,1
+/google/triggerator/projects,3,1

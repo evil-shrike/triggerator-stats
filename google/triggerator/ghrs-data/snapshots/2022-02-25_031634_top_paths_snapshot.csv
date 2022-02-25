@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/google/triggerator,57,41
+/google/triggerator/blob/c03b4241b6c64d368054813ee084481bf819c235/scripts/setup.sh,8,1
+/google/triggerator/commits,2,1
+/google/triggerator/pulse,2,1
+/google/triggerator/blob/main/backend/src/api.ts,1,1
+/google/triggerator/blob/main/backend/src/app.ts,1,1
+/google/triggerator/blob/main/backend/src/env.ts,1,1
+/google/triggerator/blob/main/CHANGELOG.md,1,1
+/google/triggerator/blob/main/scripts/create-spreadsheet.py,1,1
+/google/triggerator/blob/main/scripts/setup.sh,1,1

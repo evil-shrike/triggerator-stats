@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/google/triggerator,24,14
+/google/triggerator/tree/main/frontend,6,2
+/google/triggerator/tree/main/frontend/src,6,1
+/google/triggerator/tree/main/frontend/src/app,6,1
+/google/triggerator/tree/main/frontend/src/app/components,4,1
+/google/triggerator/tree/main/frontend/src/app/shared,3,1
+/google/triggerator/tree/main/backend,2,2
+/google/triggerator/blob/main/frontend/src/app/components/confirmation-dialog.component.ts,2,1
+/google/triggerator/blob/main/frontend/src/app/components/object-details-dialog.component.css,2,1
+/google/triggerator/commits,2,1

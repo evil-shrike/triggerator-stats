@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/google/triggerator,14,11
+/google/triggerator/tree/main/backend,3,2
+/google/triggerator/blob/c03b4241b6c64d368054813ee084481bf819c235/backend/src/app/rule-engine.ts,3,1
+/google/triggerator/tree/main/backend/src,2,2
+/google/triggerator/tree/main/backend/src/app,2,2
+/google/triggerator/tree/main/frontend,2,2
+/google/triggerator/blob/main/backend/src/app/cloud-utils.ts,2,1
+/google/triggerator/tree/main/frontend/src/app/components,2,1
+/google/triggerator/blob/main/backend/package.json,1,1
+/google/triggerator/blob/main/backend/src/api.ts,1,1

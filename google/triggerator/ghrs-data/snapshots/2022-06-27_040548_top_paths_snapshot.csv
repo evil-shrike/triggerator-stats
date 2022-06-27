@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/google/triggerator,16,14
+/google/triggerator/tree/main/frontend,2,1
+/google/triggerator/tree/main/scripts,2,1
+/google/triggerator/blob/main/README.md,1,1
+/google/triggerator/blob/main/scripts/build-n-deploy.sh,1,1
+/google/triggerator/blob/main/scripts/build.sh,1,1
+/google/triggerator/blob/main/scripts/create-spreadsheet.py,1,1
+/google/triggerator/blob/main/scripts/update.sh,1,1
+/google/triggerator/graphs/contributors,1,1
+/google/triggerator/network/members,1,1

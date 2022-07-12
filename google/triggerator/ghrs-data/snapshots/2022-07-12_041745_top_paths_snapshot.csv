@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/google/triggerator,15,6
+/google/triggerator/tree/main/backend/src,3,1
+/google/triggerator/tree/main/backend/src/test,2,1
+/google/triggerator/blob/ba3b03246ffef3216e2a9ade6a5d9bf611e66ef2/backend/src/test/config-service.tests.ts,1,1
+/google/triggerator/blob/main/backend/src/test/feed-service.tests.ts,1,1
+/google/triggerator/blob/main/backend/src/test/weather.csv,1,1
+/google/triggerator/commit/c03b4241b6c64d368054813ee084481bf819c235,1,1
+/google/triggerator/tree/main/backend,1,1
+/google/triggerator/tree/main/backend/src/app,1,1
+/google/triggerator/tree/main/backend/src/types,1,1

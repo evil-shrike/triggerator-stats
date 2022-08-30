@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/google/triggerator,8,8
+/google/triggerator/tree/main/backend,3,2
+/google/triggerator/tree/main/backend/src,2,2
+/google/triggerator/blob/main/backend/package.json,1,1
+/google/triggerator/blob/main/backend/package-lock.json,1,1
+/google/triggerator/blob/main/backend/src/app/cloud-scheduler-service.ts,1,1
+/google/triggerator/tree/main/backend/src/app,1,1
+/google/triggerator/tree/main/backend/src/test,1,1

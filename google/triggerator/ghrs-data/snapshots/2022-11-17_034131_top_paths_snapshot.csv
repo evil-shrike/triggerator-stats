@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/google/triggerator,19,12
+/google/triggerator/search,7,2
+/google/triggerator/commit/0bd3a20599b56368d8f7136a9afb4c462eab320d,3,1
+/google/triggerator/labels,3,1
+/google/triggerator/blob/main/scripts/build-n-deploy.sh,2,1
+/google/triggerator/tree/main/scripts,2,1
+/google/triggerator/blame/87f13669dc6250667ede0f1fdeba3a8475b87892/scripts/create-spreadsheet.py,1,1
+/google/triggerator/blob/0bd3a20599b56368d8f7136a9afb4c462eab320d/.gitignore,1,1
+/google/triggerator/blob/87f13669dc6250667ede0f1fdeba3a8475b87892/scripts/create-spreadsheet.py,1,1
+/google/triggerator/blob/main/backend/.gcloudignore,1,1

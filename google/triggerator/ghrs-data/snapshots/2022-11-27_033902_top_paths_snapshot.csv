@@ -1,0 +1,5 @@
+url_path,views_total,views_unique
+/google/triggerator,13,8
+/google/triggerator/search,5,1
+/google/triggerator/blob/main/scripts/build-n-deploy.sh,2,1
+/google/triggerator/tree/main/scripts,2,1

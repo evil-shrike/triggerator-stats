@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/google/triggerator,8,3
+/google/triggerator/tree/main/backend,4,2
+/google/triggerator/tree/main/backend/src,4,2
+/google/triggerator/tree/main/backend/src/app,3,2
+/google/triggerator/tree/main/backend/src/test,3,2
+/google/triggerator/commits,3,1
+/google/triggerator/commits/main,2,1
+/google/triggerator/tree/c03b4241b6c64d368054813ee084481bf819c235,2,1
+/google/triggerator/blob/c03b4241b6c64d368054813ee084481bf819c235/backend/src/app/config-service.ts,1,1
+/google/triggerator/blob/c03b4241b6c64d368054813ee084481bf819c235/frontend/src/app/app-editor.component.html,1,1

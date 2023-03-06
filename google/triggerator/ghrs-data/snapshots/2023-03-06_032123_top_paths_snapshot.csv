@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/google/triggerator,11,10
+/google/triggerator/tree/main/backend/src/app,7,3
+/google/triggerator/tree/main/backend,4,4
+/google/triggerator/tree/main/backend/src,4,3
+/google/triggerator/blob/fdd6be9eba56f1601bb380255e82000e7f76d9c2/README.md,2,2
+/google/triggerator/blob/main/backend/src/app/cloud-storage.ts,2,2
+/google/triggerator/blob/main/backend/src/app/email-notifier.ts,2,1
+/google/triggerator/blob/fdd6be9eba56f1601bb380255e82000e7f76d9c2/backend/package.json,1,1
+/google/triggerator/blob/fdd6be9eba56f1601bb380255e82000e7f76d9c2/backend/package-lock.json,1,1
+/google/triggerator/blob/main/backend/src/app/auth.ts,1,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/google/triggerator,10,6
+/google/triggerator/tree/main/backend,2,1
+/google/triggerator/tree/main/backend/src,2,1
+/google/triggerator/blob/main/backend/app.yaml.copy,1,1
+/google/triggerator/blob/main/backend/nodemon.json,1,1
+/google/triggerator/blob/main/backend/package.json,1,1
+/google/triggerator/blob/main/backend/src/api.ts,1,1
+/google/triggerator/blob/main/backend/src/app/report-service.ts,1,1
+/google/triggerator/blob/main/backend/src/env.ts,1,1
+/google/triggerator/blob/main/backend/tsconfig.json,1,1

@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/google/triggerator,45,17
+/google/triggerator/search,4,1
+/google/triggerator/tree/main/scripts,3,1
+/google/triggerator/blob/main/scripts/setup.sh,2,1
+/google/triggerator/tree/main/.vscode,2,1
+/google/triggerator/blob/main/.vscode/launch.json,1,1
+/google/triggerator/blob/main/.vscode/settings.json,1,1
+/google/triggerator/tree/main/backend,1,1

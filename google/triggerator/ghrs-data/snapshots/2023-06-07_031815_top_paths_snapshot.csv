@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/google/triggerator,8,6
+/google/triggerator/blob/ba3b03246ffef3216e2a9ade6a5d9bf611e66ef2/backend/src/test/config-service.tests.ts,5,1
+/google/triggerator/tree/ba3b03246ffef3216e2a9ade6a5d9bf611e66ef2/backend/src/test,4,1
+/google/triggerator/blob/fdd6be9eba56f1601bb380255e82000e7f76d9c2/frontend/src/app/navbar/navbar.component.ts,2,1
+/google/triggerator/tree/ba3b03246ffef3216e2a9ade6a5d9bf611e66ef2/backend,2,1
+/google/triggerator/tree/ba3b03246ffef3216e2a9ade6a5d9bf611e66ef2/backend/src,2,1
+/google/triggerator/tree/main/backend,2,1
+/google/triggerator/commit/fdd6be9eba56f1601bb380255e82000e7f76d9c2,1,1

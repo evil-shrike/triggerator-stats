@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/google/triggerator/tree/main/backend,9,1
+/google/triggerator/tree/main/scripts,7,1
+/google/triggerator,6,6
+/google/triggerator/tree/main,4,1
+/google/triggerator/tree/main/frontend,3,1
+/google/triggerator/blob/main/backend/app.yaml.copy,2,1
+/google/triggerator/blob/main/scripts/setup.sh,2,1
+/google/triggerator/security/secret-scanning/1,2,1
+/google/triggerator/tree/main/backend/src,2,1

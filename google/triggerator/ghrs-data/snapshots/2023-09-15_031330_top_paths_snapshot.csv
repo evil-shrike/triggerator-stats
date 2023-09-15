@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/google/triggerator,10,9
+/google/triggerator/blob/main/README.md,4,1
+/google/triggerator/blob/main/.vscode/launch.json,4,1
+/google/triggerator/tree/main/frontend,4,1
+/google/triggerator/blob/main/frontend/e2e/src/app.e2e-spec.ts,2,1
+/google/triggerator/blob/main/scripts/build.sh,2,1
+/google/triggerator/blob/main/scripts/create-spreadsheet.py,2,1
+/google/triggerator/blob/main/scripts/setup.sh,2,1
+/google/triggerator/blob/main/scripts/update.sh,2,1
+/google/triggerator/blob/main/.vscode/settings.json,2,1

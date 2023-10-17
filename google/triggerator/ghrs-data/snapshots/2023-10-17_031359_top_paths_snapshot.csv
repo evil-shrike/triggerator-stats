@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/google/triggerator,15,12
+/google/triggerator/tree/main/scripts,9,1
+/google/triggerator/tree/main/frontend,6,2
+/google/triggerator/tree/main/frontend/src/app,5,1
+/google/triggerator/tree/main/frontend/src,3,1
+/google/triggerator/blob/e75b0cf1139fcf95bc48056a0221bcc154b9d1e7/scripts/create-spreadsheet.py,2,1
+/google/triggerator/blob/main/backend/package.json,2,1
+/google/triggerator/blob/main/backend/package-lock.json,2,1
+/google/triggerator/blob/main/backend/src/app/feed-service.ts,2,1
+/google/triggerator/blob/main/frontend/src/app/about.component.css,2,1

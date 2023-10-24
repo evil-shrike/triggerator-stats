@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/google/triggerator,11,10
+/google/triggerator/tree/main/scripts,9,1
+/google/triggerator/blob/main/backend/package.json,2,1
+/google/triggerator/blob/main/backend/package-lock.json,2,1
+/google/triggerator/blob/main/scripts/build-n-deploy.sh,2,1
+/google/triggerator/blob/main/scripts/build.sh,2,1
+/google/triggerator/blob/main/scripts/setup.sh,2,1

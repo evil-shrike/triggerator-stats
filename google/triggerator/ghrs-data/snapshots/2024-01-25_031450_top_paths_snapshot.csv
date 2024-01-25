@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/google/triggerator,6,6
+/google/triggerator/blob/main/backend/src/app/auth.ts,4,1
+/google/triggerator/blob/main/backend/src/app/google-drive-facade.ts,4,1
+/google/triggerator/blob/main/backend/src/app.ts,4,1
+/google/triggerator/commits,4,1
+/google/triggerator/blob/49236ef11b222c0994a13b09201fc1edfed700cd/backend/app.yaml.copy,2,1
+/google/triggerator/blob/49236ef11b222c0994a13b09201fc1edfed700cd/backend/src/app/logger-winston.ts,2,1
+/google/triggerator/blob/49236ef11b222c0994a13b09201fc1edfed700cd/backend/src/app/report-service.ts,2,1
+/google/triggerator/blob/main/backend/src/api.ts,2,1
+/google/triggerator/blob/main/backend/src/app/cloud-storage.ts,2,1

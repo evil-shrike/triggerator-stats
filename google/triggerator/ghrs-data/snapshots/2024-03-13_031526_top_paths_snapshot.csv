@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/google/triggerator,10,8
+/google/triggerator/tree/main/backend/src,7,1
+/google/triggerator/tree/main/backend,4,2
+/google/triggerator/tree/main/backend/src/app,4,1
+/google/triggerator/tree/main/frontend,3,1
+/google/triggerator/tree/main/frontend/src,3,1
+/google/triggerator/tree/main/frontend/src/app,3,1
+/google/triggerator/blob/49236ef11b222c0994a13b09201fc1edfed700cd/backend/src/app/feed-service.ts,2,1
+/google/triggerator/blob/main/backend/src/app/dv360-facade.ts,2,1
+/google/triggerator/blob/main/backend/src/env.ts,2,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/google/triggerator,14,9
+/google/triggerator/pull/17,14,4
+/google/triggerator/pulls,11,2
+/google/triggerator/pull/19,7,3
+/google/triggerator/pull/18,6,3
+/google/triggerator/blob/49236ef11b222c0994a13b09201fc1edfed700cd/backend/src/app/auth.ts,4,1
+/google/triggerator/edit/main/frontend/src/app/event-list.component.ts,4,1
+/google/triggerator/pull/17/files,2,2
+/google/triggerator/blob/49236ef11b222c0994a13b09201fc1edfed700cd/backend/src/app.ts,2,1
+/google/triggerator/blob/49236ef11b222c0994a13b09201fc1edfed700cd/frontend/src/app/app-editor.component.html,2,1

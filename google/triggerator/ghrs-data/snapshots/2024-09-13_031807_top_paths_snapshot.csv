@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/google/triggerator,13,9
+/google/triggerator/tree/main/backend,6,1
+/google/triggerator/tree/main/backend/src,6,1
+/google/triggerator/blob/main/backend/src/env.ts,4,1
+/google/triggerator/blob/main/backend/src/test/weather.csv,4,1
+/google/triggerator/blob/main/backend/src/test/weather.json,4,1
+/google/triggerator/tree/main/frontend,4,1
+/google/triggerator/tree/main/frontend/src,4,1
+/google/triggerator/tree/main/frontend/src/environments,4,1
+/google/triggerator/tree/main/frontend/src/app/navbar,3,1

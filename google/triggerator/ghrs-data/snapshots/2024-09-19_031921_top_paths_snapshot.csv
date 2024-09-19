@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/google/triggerator,18,8
+/google/triggerator/tree/main/scripts,8,3
+/google/triggerator/pulls,3,3
+/google/triggerator/actions,2,2
+/google/triggerator/projects,2,2
+/google/triggerator/blob/49236ef11b222c0994a13b09201fc1edfed700cd/backend/src/app/logger-winston.ts,2,1
+/google/triggerator/issues,2,1
+/google/triggerator/commit/49236ef11b222c0994a13b09201fc1edfed700cd,1,1

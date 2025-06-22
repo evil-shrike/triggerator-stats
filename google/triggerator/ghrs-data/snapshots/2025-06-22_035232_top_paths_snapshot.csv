@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/google/triggerator,21,12
+/google/triggerator/tree/main/backend,15,3
+/google/triggerator/tree/main,11,2
+/google/triggerator/blob/main/scripts/create-spreadsheet.py,5,3
+/google/triggerator/blob/main/scripts/setup.sh,5,3
+/google/triggerator/tree/main/frontend,4,3
+/google/triggerator/blob/main/backend/app.yaml.copy,4,2
+/google/triggerator/branches,4,1
+/google/triggerator/tree/main/frontend/src,3,3
+/google/triggerator/blob/49236ef11b222c0994a13b09201fc1edfed700cd/frontend/README.md,3,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/google/triggerator,13,7
+/google/triggerator/tree/main/backend,6,2
+/google/triggerator/tree/main,4,2
+/google/triggerator/branches,4,1
+/google/triggerator/tree/main/frontend/src,3,3
+/google/triggerator/tree/main/frontend,3,2
+/google/triggerator/blob/main/backend/app.yaml.copy,2,2
+/google/triggerator/blob/main/scripts/build.sh,2,1
+/google/triggerator/blob/main/scripts/create-spreadsheet.py,2,1
+/google/triggerator/blob/main/backend/.vscode/launch.json,1,1

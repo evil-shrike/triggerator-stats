@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/google/triggerator,6,3
+/google/triggerator/blob/main/backend/src/app/sdf-generator.ts,4,2
+/google/triggerator/blob/main/backend/src/app/rule-engine.ts,3,2
+/google/triggerator/blob/main/backend/src/app/sdf-service.ts,3,2
+/google/triggerator/tree/main,3,2
+/google/triggerator/blob/main/backend/src/app/dv360-facade.ts,2,2
+/google/triggerator/tree/main/backend,2,2
+/google/triggerator/tree/main/backend/src,2,2
+/google/triggerator/blob/main/backend/src/app/utils.ts,2,1
+/google/triggerator/tree/main/backend/src/types,2,1

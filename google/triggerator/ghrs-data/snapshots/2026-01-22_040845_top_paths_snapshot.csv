@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/google/triggerator,29,14
+/google/triggerator/commits/main,11,4
+/google/triggerator/commit/9a5fad0d6594d9841d7af2e2601fe4dab63f1a9c,8,3
+/google/triggerator/commit/c466979e29ead2fa42c0e33b86459b433a9c978a,4,3
+/google/triggerator/commits,4,1
+/google/triggerator/commits/9a5fad0d6594d9841d7af2e2601fe4dab63f1a9c,4,1
+/google/triggerator/tree/main/backend,3,2
+/google/triggerator/blob/ba3b03246ffef3216e2a9ade6a5d9bf611e66ef2/backend/src/test/config-service.tests.ts,3,1
+/google/triggerator/commit/49236ef11b222c0994a13b09201fc1edfed700cd,2,2
+/google/triggerator/commit/b1df29a7b1023e44d308252d20f83470995a3602,2,2

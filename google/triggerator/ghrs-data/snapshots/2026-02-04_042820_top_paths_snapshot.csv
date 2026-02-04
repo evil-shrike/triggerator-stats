@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/google/triggerator,42,24
+/google/triggerator/commits/main,12,4
+/google/triggerator/commit/9a5fad0d6594d9841d7af2e2601fe4dab63f1a9c,11,6
+/google/triggerator/tree/main/backend,6,5
+/google/triggerator/blob/main/backend/src/app/dv360-facade.ts,5,3
+/google/triggerator/commits/9a5fad0d6594d9841d7af2e2601fe4dab63f1a9c,4,1
+/google/triggerator/tree/main/backend/src,3,3
+/google/triggerator/tree/main/backend/src/app,3,3
+/google/triggerator/commit/c466979e29ead2fa42c0e33b86459b433a9c978a,3,2
+/google/triggerator/blob/main/README.md,2,2

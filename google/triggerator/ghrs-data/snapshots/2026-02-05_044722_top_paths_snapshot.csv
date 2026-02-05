@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/google/triggerator,39,21
+/google/triggerator/blob/main/backend/src/app/dv360-facade.ts,9,2
+/google/triggerator/tree/main/backend,5,3
+/google/triggerator/tree/main/backend/src,5,2
+/google/triggerator/tree/main/backend/src/app,5,2
+/google/triggerator/commit/9a5fad0d6594d9841d7af2e2601fe4dab63f1a9c,4,3
+/google/triggerator/blob/main/backend/src/test/test.ts,4,1
+/google/triggerator/pulls,3,2
+/google/triggerator/blob/main/backend/package-lock.json,3,1
+/google/triggerator/tree/main/backend/src/test,3,1

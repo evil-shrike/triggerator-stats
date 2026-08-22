@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/google/triggerator,10,5
+/google/triggerator/tree/main/backend,2,1
+/google/triggerator/tree/main/backend/.vscode,2,1
+/google/triggerator/blob/90ee51614b4dc1832caad934b46966c59adea413/backend/.gcloudignore,1,1
+/google/triggerator/blob/main/backend/.vscode/launch.json,1,1
+/google/triggerator/blob/main/scripts/update.sh,1,1
+/google/triggerator/issues,1,1
+/google/triggerator/tree/main/backend/src,1,1
+/google/triggerator/tree/main/scripts,1,1
